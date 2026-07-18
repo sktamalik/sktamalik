@@ -46,7 +46,7 @@ ROWS = [
     ("sec", "Highlights"),
     ("bul", "MCF · Microsoft Certified"),
     ("bul", "BNSP Data Scientist"),
-    ("bul", "AI Dashboard · 60% efisiensi"),
+    ("bul", "AI Dashboard"),
     ("bul", "Hackathon Makassar 2023"),
 ]
 
