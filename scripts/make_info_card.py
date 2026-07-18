@@ -44,7 +44,7 @@ ROWS = [
     ("kv", "Tools", "Figma, PostgreSQL, Elementor"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "MCF · Microsoft Certified"),
+    ("bul", "MCF - Microsoft Certified"),
     ("bul", "BNSP Data Scientist"),
     ("bul", "AI Dashboard"),
     ("bul", "Hackathon Makassar 2023"),
