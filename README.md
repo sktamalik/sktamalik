@@ -32,7 +32,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sktafolio.my.id-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sktafolio.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andi--sakta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andi-sakta-rifki-erlangga-malik-5852a9361)
-[![Instagram](https://img.shields.io/badge/Instagram-@sktamalik_-40E4C5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sktamalik_)
+[![Instagram](https://img.shields.io/badge/Instagram-@sktamalik_-268876?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sktamalik_)
 
 <br>
 
