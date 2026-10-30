@@ -62,8 +62,8 @@ Select the specialization for your quest. Every class delivers battle-tested cod
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://sktafolio.my.id"><img src="./assets/card-metrics.svg" width="600" height="210" alt="Metrics Oracle: Interactive data dashboards and analytics backed by BNSP Data Science" /></a>
-      <p><b><a href="https://sktafolio.my.id">Metrics Oracle</a></b>: Interactive dashboards, business intelligence reporting, and clear visual data storytelling certified by BNSP Data Science.</p>
+      <a href="https://sktafolio.my.id"><img src="./assets/card-metrics.svg" width="600" height="210" alt="Metrics Oracle: Data visualization dashboards and analytics backed by BNSP Data Science" /></a>
+      <p><b><a href="https://sktafolio.my.id">Metrics Oracle</a></b>: Interactive dashboards, data visualization & monitoring, and clear visual data storytelling certified by BNSP Data Science.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://sktafolio.my.id"><img src="./assets/card-agentic.svg" width="600" height="210" alt="AI Artificer: Agentic AI development with Claude Code, Codex, and Antigravity" /></a>
