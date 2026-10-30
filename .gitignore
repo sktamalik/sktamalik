@@ -1,4 +1,40 @@
-# generated intermediate (can be regenerated from source-photo.png)
-source-prepped.png
-preview.html
+# Folders (local only, ignored from git)
+backup readme old/
+data
+data/
+scripts
+scripts/
+.github
+.github/
 
+# Old profile files
+source-photo.png
+source-prepped.png
+sktamalik-ascii.svg
+info-card.svg
+contrib-heatmap.svg
+
+# Generated intermediates & preview
+preview.html
+*.tmp
+*.log
+*-screenshot.png
+*-test.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Editor & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
